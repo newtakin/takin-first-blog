@@ -96,5 +96,6 @@ p, p a:visited, p a:active {
 }
 
 .about {
-	margin-left: 50px
+	margin-left: 50px;
+	font-family: font-family: 'Roboto', sans-serif;
 }
